@@ -1,0 +1,3 @@
+Wstaw tutaj pliki audio dla: metro.
+Przykład: Szwedzka.wav
+Końcowy: Szwedzka_#terminus.wav

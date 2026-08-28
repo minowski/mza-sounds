@@ -1,0 +1,3 @@
+Wstaw tutaj pliki audio dla: bus.
+Przykład: Szwedzka.wav
+Końcowy: Szwedzka_#terminus.wav

@@ -1,0 +1,3 @@
+Wstaw tutaj pliki audio dla: train.
+Przykład: Szwedzka.wav
+Końcowy: Szwedzka_#terminus.wav
